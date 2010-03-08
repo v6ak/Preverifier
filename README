@@ -1,4 +1,6 @@
-This project is based derived from Mobile Tools for Java ( http://www.eclipse.org/dsdp/mtj/ ).
+This project is derived from Mobile Tools for Java ( http://www.eclipse.org/dsdp/mtj/ ).
+
+It seems to work. However, tests are incompatible with current version of ASM.
 
 Compile-time dependencies:
 * project Lombok: http://projectlombok.org/
