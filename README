@@ -1,0 +1,10 @@
+This project is based derived from Mobile Tools for Java ( http://www.eclipse.org/dsdp/mtj/ ).
+
+Compile-time dependencies:
+* project Lombok: http://projectlombok.org/
+* AMS Enhancements: http://github.com/v6ak/ASM-Enhancements
+
+Runtime dependencies:
+* AMS Enhancements: http://github.com/v6ak/ASM-Enhancements
+
+This source is availble under EPL license which is in license.html.
