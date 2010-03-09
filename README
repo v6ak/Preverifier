@@ -5,9 +5,11 @@ It seems to work. However, tests are incompatible with current version of ASM.
 Compile-time dependencies:
 * project Lombok: http://projectlombok.org/
 * AMS Enhancements: http://github.com/v6ak/ASM-Enhancements
+* ASM: http://asm.ow2.org/
 
 Runtime dependencies:
 * AMS Enhancements: http://github.com/v6ak/ASM-Enhancements
+* ASM: http://asm.ow2.org/
 
 This source is availble under EPL license which is in license.html.
 
